@@ -104,7 +104,7 @@ namespace preventScreenSaver
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            this.Text = "離席ツール";
+            this.Text = " ";
         }
 
         private void Form1_Shown(object sender, EventArgs e)

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\soichi.hanakura\\workspace\\@tools\\preventScreenSaver\\preventScreenSaver.csproj": {}
+    "E:\\workspace\\CSharp\\preventScreenSaver\\preventScreenSaver.csproj": {}
   },
   "projects": {
-    "C:\\Users\\soichi.hanakura\\workspace\\@tools\\preventScreenSaver\\preventScreenSaver.csproj": {
+    "E:\\workspace\\CSharp\\preventScreenSaver\\preventScreenSaver.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\soichi.hanakura\\workspace\\@tools\\preventScreenSaver\\preventScreenSaver.csproj",
+        "projectUniqueName": "E:\\workspace\\CSharp\\preventScreenSaver\\preventScreenSaver.csproj",
         "projectName": "preventScreenSaver",
-        "projectPath": "C:\\Users\\soichi.hanakura\\workspace\\@tools\\preventScreenSaver\\preventScreenSaver.csproj",
-        "packagesPath": "C:\\Users\\soichi.hanakura\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\soichi.hanakura\\workspace\\@tools\\preventScreenSaver\\obj\\",
+        "projectPath": "E:\\workspace\\CSharp\\preventScreenSaver\\preventScreenSaver.csproj",
+        "packagesPath": "C:\\Users\\ColRe\\.nuget\\packages\\",
+        "outputPath": "E:\\workspace\\CSharp\\preventScreenSaver\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\soichi.hanakura\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ColRe\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -45,7 +45,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -57,7 +58,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
